@@ -1,0 +1,1 @@
+export const arrayFromInterger = (range: number) => Array.from(Array(range).keys(), i => i);
